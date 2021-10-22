@@ -1,0 +1,1 @@
+import { checkType } from "~/utils/checkType"; //heropy=src가 됨
